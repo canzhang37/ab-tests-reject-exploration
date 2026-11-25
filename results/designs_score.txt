@@ -1,0 +1,30 @@
+W=28 eps1=0.05: Delta 0.03150 (SE 0.00321)
+  pooled           median rel. error -1.165 (-1.189, -1.150); estimate sd 0.00275
+  diverted         median rel. error -0.939 (-1.116, -0.478); estimate sd 0.03857
+  switchback       median rel. error -1.260 (-1.299, -1.198); estimate sd 0.02094
+  share            median rel. error +0.166 (-0.485, +0.676); estimate sd 0.10495
+  share_quadratic  median rel. error -0.347 (-1.743, +1.119); estimate sd 0.31661
+  share design s_max 0.464
+W=28 eps1=0.15: Delta 0.02703 (SE 0.00313)
+  pooled           median rel. error -1.825 (-1.872, -1.776); estimate sd 0.00585
+  diverted         median rel. error -0.440 (-0.793, -0.087); estimate sd 0.04221
+  switchback       median rel. error -1.986 (-2.055, -1.893); estimate sd 0.02238
+  share            median rel. error +0.478 (-0.362, +1.056); estimate sd 0.09135
+  share_quadratic  median rel. error -4.790 (-6.575, -3.356); estimate sd 0.30490
+  share design s_max 0.464
+W=56 eps1=0.05: Delta 0.03142 (SE 0.00362)
+  pooled           median rel. error -1.190 (-1.206, -1.168); estimate sd 0.00299
+  diverted         median rel. error -0.966 (-1.088, -0.737); estimate sd 0.03935
+  switchback       median rel. error -1.251 (-1.328, -1.168); estimate sd 0.01941
+  share            median rel. error -0.398 (-0.969, +1.201); estimate sd 0.15646
+  share_quadratic  median rel. error -6.264 (-10.439, -1.373); estimate sd 0.96711
+  share design s_max 0.232
+W=56 eps1=0.15: Delta 0.03053 (SE 0.00296)
+  pooled           median rel. error -1.750 (-1.790, -1.703); estimate sd 0.00741
+  diverted         median rel. error -0.854 (-1.208, -0.475); estimate sd 0.04032
+  switchback       median rel. error -1.957 (-2.058, -1.759); estimate sd 0.02044
+  share            median rel. error +2.119 (+0.930, +3.563); estimate sd 0.16073
+  share_quadratic  median rel. error -6.152 (-17.168, +0.543); estimate sd 1.29856
+  share design s_max 0.232
+share within 0.25 in every scored cell: False; every standard design >= 0.5 in at least half: True; share > 0.5 in two or more cells: False; share never best: False
+KT1 MARGINAL

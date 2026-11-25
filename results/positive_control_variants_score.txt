@@ -1,0 +1,4 @@
+S2_linear: mean error -0.000165 (SE 0.000106, 1.56 SE): ok
+S2L_linear: mean error -0.000046 (SE 0.000038, 1.20 SE): ok
+short_window (reported): mean error -0.000082
+PC PASS

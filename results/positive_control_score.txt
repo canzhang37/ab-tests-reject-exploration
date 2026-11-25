@@ -1,0 +1,8 @@
+pooled: mean -0.00401 (SE 0.00003)
+diverted: mean -0.00213 (SE 0.00003)
+switchback: mean -0.00413 (SE 0.00003)
+share: mean 0.00402 (SE 0.00013)
+share error 0.000022 (SE 0.000126, 5% of Delta = 0.000200): ok
+diverted kappa 0.234 vs predicted 0.232: ok
+pooled and switchback within 0.1|gamma| of tau: ok
+PC PASS
